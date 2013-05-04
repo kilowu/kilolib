@@ -34,6 +34,4 @@
           (unique-triples n)))
 
 (triples-sum-equal 3 7)
-                                
-                  
-                  
+         
